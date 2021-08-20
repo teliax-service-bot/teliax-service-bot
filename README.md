@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @teliax-service-bot
+- 🤖 I’m interested in automation
